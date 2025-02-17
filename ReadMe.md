@@ -35,11 +35,11 @@ Welcome to the **Patient Assistance App**, a platform designed to streamline com
 
 ## Tech Stack
 
-- **Frontend**: React.js / Flutter
-- **Backend**: Node.js / Django
-- **Database**: MongoDB / PostgreSQL
-- **LLM Integration**: OpenAI GPT / Hugging Face
+- **Frontend**: React.js
+- **Backend**: Node.js
+- **Database**: MongoDB 
+- **LLM Integration**: OpenAI GPT
 - **Authentication**: Firebase / Auth0
-- **Deployment**: AWS / Heroku / Vercel
+- **Deployment**: Vercel
 
 ---
